@@ -1,0 +1,10 @@
+/*Apply Css style for all Power BI reports*/
+.powerbi {
+    height: 80vh;
+    width: 100vw;
+    position: relative;
+    top: 40px;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
